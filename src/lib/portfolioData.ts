@@ -7,7 +7,7 @@ export const personalInfo = {
   college: "Maharaja Institute of Technology, Mysore",
   degree: "B.E. Computer Science Engineering",
   graduation: "2027",
-  cgpa: "8.83",
+  cgpa: "8.99",
   period: "2023–2027",
   resumePath: "/Manasa_M.pdf",
   github: "https://github.com/manasa-016",
@@ -93,7 +93,7 @@ export const education = [
     degree: "B.E. Computer Science Engineering",
     period: "2023–2027",
     scoreLabel: "CGPA",
-    score: "8.83",
+    score: "8.99",
   },
   {
     icon: "fa-book",

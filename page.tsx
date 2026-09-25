@@ -285,7 +285,7 @@ export default function Home() {
     <span class="code-keyword">def</span> <span class="code-func">__init__</span>(<span class="code-param">self</span>):
         <span class="code-param">self</span>.name = <span class="code-string">"Manasa M"</span>
         <span class="code-param">self</span>.role = <span class="code-string">"Full Stack Developer"</span>
-        <span class="code-param">self</span>.cgpa = <span class="code-number">8.83</span>
+        <span class="code-param">self</span>.cgpa = <span class="code-number">8.99</span>
         <span class="code-param">self</span>.location = <span class="code-string">"Mysore, India"</span>
 
     <span class="code-keyword">def</span> <span class="code-func">focus</span>(<span class="code-param">self</span>):
